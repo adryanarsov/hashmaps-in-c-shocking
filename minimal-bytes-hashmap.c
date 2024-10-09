@@ -1,1 +1,1 @@
-void main(){char* hashmap[][]=[["key","value"]]}
+void main(){char* hashmap[][]=[["key","value"]];}
